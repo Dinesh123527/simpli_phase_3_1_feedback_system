@@ -22,12 +22,3 @@
 * Data received in the REST controller will be then saved into the database.
 * Created a test form in HTML to submit data to the REST endpoint to ensure it’s working.
 
-### Output
-
-<kbd>![](images/1.PNG)</kbd>
-
-<kbd>![](images/2.PNG)</kbd>
-
-<kbd>![](images/3.PNG)</kbd>
-
-<kbd>![](images/4.PNG)</kbd>
